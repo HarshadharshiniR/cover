@@ -1,5 +1,5 @@
 # Ex.06 Book Front Cover Page Design
-## Date:27/11/2024
+## Date:29/11/2024
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
@@ -128,9 +128,9 @@ Publish the website in the LocalHost.
                 <hr style="color:blanchedalmond">
             </div>
             <div class="booktitle">
-                <h1 style="font-family: cursive; color:wheat;">OBJECTIVE ELECTRICAL TECHNOLOGY</h1></div>
+                <h1 style="font-family: cursive; color:wheat;">A Complete Overview On: WEB DEVLOPMENT</h1></div>
             <div class="subtitle" style="text-align: center;color: beige;">
-                 Objective Questions with Hints
+                 BEST FOR BEGINNER
             </div>
             <div class="subtitle" style="color: rgb(193, 172, 133);text-align: center;">
                  Top seller of 2024
@@ -156,9 +156,11 @@ Publish the website in the LocalHost.
         
 
 </html>
+
 ```
-## output:  
-![alt text](<Screenshot 2024-11-27 132725.png>)
+## OUTPUT:
+![alt text](<Screenshot 2024-11-29 115155.png>)
+
 
 
 ## RESULT:
